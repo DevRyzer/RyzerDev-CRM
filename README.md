@@ -119,8 +119,8 @@ MySQL
 
 ## 👨‍💻 Autor
 
-Desarrollado por [Tu Nombre]
+Desarrollado por [RyzerDev]
 
-Portfolio: https://tu-portfolio.com
+Portfolio: https://RyzerDev.com
 
-LinkedIn: https://linkedin.com/in/tuusuario
+LinkedIn: https://linkedin.com/in/RyzerDev
